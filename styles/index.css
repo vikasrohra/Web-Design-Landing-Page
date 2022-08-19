@@ -115,7 +115,7 @@ nav img:first-child {
     background-image: url(../images/backcover.svg);
     background-repeat: no-repeat;
     background-position: right top;
-    background-size: auto 92%;
+    background-size: cover;
   }
 
   nav {
